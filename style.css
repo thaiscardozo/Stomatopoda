@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(189, 84, 246);
+  background-color: rgba(0, 0, 255, 0.256);
+  padding: 10px;
+}
+#principal-title {
+  background-color: rgba(0, 0, 0, 0.142);
+  padding: 10px;
+  border-radius: 20px;
+}
+#img {
+ width: 600px;
+ border-radius: 100px;
+ background-color: aqua;
+}
+
+.estomatopódes {
+    color: rgb(84, 117, 216);
+}
+ 
